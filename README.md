@@ -14,7 +14,7 @@ This collection of files comprise an in-class exercise designed to introduce stu
 * EnTwine_The Crow and the Pitcher_Full.docx contains a full transcript of the work including the adapated Twine version text of the fable, the markup and the coding. Intended for the instructor.
 * The Crow and the Pitcher.pdf is a PDF of the above file. 
 * EnTwine_The Crow and the Pitcher_TextOnly.docx contains the adapted Twine version text of the fable. Intended for the students.
-* The Crow and the Pitcher.html is the built/publishrd version of the adapted fable.
+* The Crow and the Pitcher.html is the built/published version of the adapted fable.
 
 ### Opening these files
 
