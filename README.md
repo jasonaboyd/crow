@@ -23,7 +23,7 @@ The .html file should be downloaded and opened in a browser (to be played) or up
 ### Additional links 
 
 * These files can also be found at: https://github.com/jasonaboyd/crow. 
-* A version of the syllabus for the course this in which thus exercise is used is can be found at: https://idnsyllabi.com/narrative-in-a-digital-age/.
+* A version of the syllabus for the course in which this exercise is used can be found at: https://idnsyllabi.com/narrative-in-a-digital-age/.
 
 ## Contact
 ### Authors
