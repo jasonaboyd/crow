@@ -15,6 +15,7 @@ This collection of files comprise an in-class exercise designed to introduce stu
 * The Crow and the Pitcher.pdf is a PDF of the above file. 
 * EnTwine_The Crow and the Pitcher_TextOnly.docx contains the adapted Twine version text of the fable. Intended for the students.
 * The Crow and the Pitcher.html is the built/published version of the adapted fable.
+* Crow and the Pitcher unlinked.html is a Twine version where the passages are unlinked and no markup of coding has been added. Students can start with this version for the exercise (saves having to crate passages and cut and paste the story text).
 
 ### Opening these files
 
