@@ -9,13 +9,12 @@ The Crow and the Pitcher Twine Adaptation Exercise
 This collection of files comprise an in-class exercise designed to introduce students to key features and functions of Twine 2. The exercise enables the instructor to lead students through a build of a gameful Twine adaptation of one of Aesop's Fables, "The Crow and the Pitcher."
 
 ## Files
+(Please use the ver2 files)
 
 * README.md - contains basic information about the code/files. Start here.
-* EnTwine_The Crow and the Pitcher_Full.docx contains a full transcript of the work including the adapated Twine version text of the fable, the markup and the coding. Intended for the instructor.
-* The Crow and the Pitcher.pdf is a PDF of the above file. 
-* EnTwine_The Crow and the Pitcher_TextOnly.docx contains the adapted Twine version text of the fable. Intended for the students.
-* The Crow and the Pitcher.html is the built/published version of the adapted fable.
-* Crow and the Pitcher unlinked.html is a Twine version where the passages are unlinked and no markup of coding has been added. Students can start with this version for the exercise (saves having to create passages and cut-and-paste the story text).
+* The Crow and the Pitcher Full_ver2.docx contains a full transcript of the work including the adapated Twine version text of the fable, the markup and the coding. Intended for the instructor.
+* The Crow and the Pitcher unlinked_ver2.html is a Twine version where the passages are unlinked and no markup or coding has been added. Students can start with this version for the exercise (saves having to create passages and cut-and-paste the story text).
+* The Crow and the Pitcher_ver2.html is the built/published version of the adapted fable.
 
 ### Opening these files
 
