@@ -18,7 +18,7 @@ This collection of files comprise an in-class exercise designed to introduce stu
 
 ### Opening these files
 
-The .html file should be downloaded and opened in a browser (to be played) or uploaded to the Twine 2 authoring platform (to be modified).
+The .html files should be downloaded and opened in a browser (to be played) or uploaded to the Twine 2 authoring platform (to be modified).
  
 ### Additional links 
 
